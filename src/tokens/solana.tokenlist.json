@@ -69968,7 +69968,21 @@
         "twitter": "https://twitter.com/cryptoquedogs",
         "website": "https://cryptoquedogs.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": " D7cuFEEPBHAvJuhXht9gsirXssmAnaDWnitUJyfQUTaG",
+      "symbol": "GNCN",
+      "name": "Green Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/GreenKoin/GreenKoin/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
+
+   
+    
   ],
   "version": {
     "major": 0,
